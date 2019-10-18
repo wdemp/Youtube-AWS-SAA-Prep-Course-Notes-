@@ -14,4 +14,5 @@ The object is uploaded to S3 and stored in multiple objects in order to ensure h
 * Advantages of S3 are:
     -If any one device fails the object would still be present on another device.
     -This is only applicable to a certain region.
-    -For disater recovery, in case of failure in a region, you will need to enable Cross Region Replication for the bucket
+    -For disater recovery, in case of failure in a region, you will need to enable Cross Region Replication for the bucket so that the object can automatically be replicated in another destination region.
+     Versioning is a prerequisite that needs to be enabled in order for Cross Region Replication to work. 
