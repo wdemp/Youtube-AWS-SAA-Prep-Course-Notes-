@@ -23,3 +23,4 @@ The object is uploaded to S3 and stored in multiple objects in order to ensure h
      -Standard Retrievel- very cost effective, very slow data speeds; typically between 3-5 hours
       Expediated Retrieval: get the objects back in a few minutes and pay alot of money for the speed of the delivery of the data
       Infrequent Access: is both fast and cost effective. 
+      
