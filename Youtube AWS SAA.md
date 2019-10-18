@@ -19,4 +19,5 @@ The object is uploaded to S3 and stored in multiple objects in order to ensure h
      Glacier:
      - used for achieving data 
      - vey cost effective
-     
+     There are multiple levels of Retrievel; each with different prices and data delivery speeds.
+     -Standard Retrievel- very cost effective, very slow data speeds; typically between 3-5 hours
