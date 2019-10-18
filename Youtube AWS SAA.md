@@ -15,4 +15,8 @@ The object is uploaded to S3 and stored in multiple objects in order to ensure h
     -If any one device fails the object would still be present on another device.
     -This is only applicable to a certain region.
     -For disater recovery, in case of failure in a region, you will need to enable Cross Region Replication for the bucket so that the object can automatically be replicated in another destination region.
-     -Versioning is a prerequisite that needs to be enabled in order for Cross Region Replication to work. With Versioning you will be able to keep multiple variants of the object in the bucket in case of application failure or accidental deletion. 
+     -Versioning is a prerequisite that needs to be enabled in order for Cross Region Replication to work. With Versioning you will be able to keep multiple variants of the object in the bucket in case of application failure or accidental deletion. If another gets overwritten, Versioning will allow the user to restore to a previous version.
+     Glacier:
+     - used for achieving data 
+     - vey cost effective
+     
