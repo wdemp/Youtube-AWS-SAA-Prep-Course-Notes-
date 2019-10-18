@@ -9,4 +9,4 @@ Databases
  -RDS, DynamoDB, Aurora, Redshift
  
  Reliable Storage S3- High Durability and Availability
--
+-S3 object- Bucket
