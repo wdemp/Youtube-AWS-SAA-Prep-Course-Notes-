@@ -4,3 +4,4 @@ Storage:
 -object level storage
 -S3 and Glacier 
 -Block Level Storage
+-EBS Storage
