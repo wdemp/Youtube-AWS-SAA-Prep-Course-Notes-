@@ -5,3 +5,4 @@ Storage:
 -S3 and Glacier 
 -Block Level Storage
 -EBS Storage
+Databases
