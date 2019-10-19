@@ -22,4 +22,8 @@ The object is uploaded to S3 and stored in multiple objects in order to ensure h
      There are multiple levels of Retrievel; each with different prices and data delivery speeds.
      -Standard Retrievel- very cost effective, very slow data speeds; typically between 3-5 hours
       Expediated Retrieval: get the objects back in a few minutes and pay alot of money for the speed of the delivery of the data
-      Infrequent Access: is both fast and cost effective. Infrequent Access costs 20% less than Standard S3 IA. This is due to the data not being saved and stored over multiple Availabilty Zones and only being stored in 1 Az. 
+      Infrequent Access: 
+      -is both fast and cost effective. Infrequent Access costs 20% less than Standard S3 IA. This is due to the data not being saved and stored over multiple Availabilty Zones and only being stored in 1 Az. 
+      -Same low latency and high throughput performance of S3 Standard.
+      -Designed for durability of 99.999999999% of objects across multiple AZ's
+      -Resilient 
