@@ -52,20 +52,19 @@ Amazon Glacier:
      -Ideal alternative to magnetic tape libraries.
      - Retrieval time within 12 hours.
      - S3 PUT API for direct uploads to S3 Glacier Deep Archive and S3 Lifecycle management for automatic migration of objects.
-     Storage: choosing permanent storage + Design cost optimized storage 
+     Storage: choosing permanent storage + Design cost optimized storage- EBS volumes 
      -General Purpose SSD
      -Provisoned IOPS
      -Throughput Optimized HDD
      -Cold HDD
     when to use specific storage models:
-    example:
-   
-   
+  
+ 
     EC2                        Cost effective volume 
     Web Server                 Volume Type
     Predcitable Workload       General Purpose SSD
     
-    typically used for web servers 
+    typically used for web servers, where you don't have much Input/Output 
     
      
     
