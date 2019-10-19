@@ -39,4 +39,5 @@ Amazon Glacier:
 
     - Desigend for durability of 99.999999999% of objects acrosss multiple AZs
     -Data is resilient in the event of one entire AZ destruction.
-    
+    -Supports SSL for data in transit and encryption of data at rest
+    -
