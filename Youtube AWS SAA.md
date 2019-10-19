@@ -64,7 +64,9 @@ Amazon Glacier:
     Web Server                 Volume Type
     Predcitable Workload       General Purpose SSD
     
-    typically used for web servers, where you don't have much Input/Output 
+    typically used for web servers, where you don't have much Input/Output sevices 
+    
+    database server vs web server: the difference is that 
     
      
     
