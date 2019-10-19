@@ -32,4 +32,4 @@ The object is uploaded to S3 and stored in multiple objects in order to ensure h
       -Designed for 99.9% availability over a given year
       -Backed with the Amazon S3 Service Level Agreement for availability.
       - Support SSL for data in transit and encryption of data at rest
-      -
+      - S3 Lifecycle management for automatic migration of objects to other S3 Storage Classes
