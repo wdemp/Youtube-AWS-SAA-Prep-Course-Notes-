@@ -30,5 +30,5 @@ The object is uploaded to S3 and stored in multiple objects in order to ensure h
       -Resilient against events that impact an entire AZ
       -Data is resilient in the event of one entire AZ destruction
       -Designed for 99.9% availability over a given year
-      
+      -Backed with the Amazon S3 Service Level Agreement for availability.
       
