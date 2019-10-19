@@ -42,4 +42,5 @@ Amazon Glacier:
     -Supports SSL for data in transit and encryption of data at rest
     -Low-cost design is ideal for long term archive
     -Configurable retrieval times, minutes to hours
-    -S3 
+    -S3 PUT API for direct uploads to S3 Glacier, and S3 Lifecycle management for automatic migration of objects.
+    
