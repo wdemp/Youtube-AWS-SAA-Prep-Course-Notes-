@@ -44,3 +44,8 @@ Amazon Glacier:
     -Configurable retrieval times, minutes to hours
     -S3 PUT API for direct uploads to S3 Glacier, and S3 Lifecycle management for automatic migration of objects.
     
+    S3 Glacier Deep Archive: the lowest cost storage and supports long term retention and digital preservation for data that may accesssed once or twice in a year.
+    
+    Key Features:
+     -
+    
