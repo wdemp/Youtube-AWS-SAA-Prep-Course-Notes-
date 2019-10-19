@@ -28,4 +28,7 @@ The object is uploaded to S3 and stored in multiple objects in order to ensure h
       -Same low latency and high throughput performance of S3 Standard.
       -Designed for durability of 99.999999999% of objects across multiple AZ's
       -Resilient against events that impact an entire AZ
+      -Data is resilient in the event of one entire AZ destruction
+      -Designed for 99.9% availability over a given year
+      
       
