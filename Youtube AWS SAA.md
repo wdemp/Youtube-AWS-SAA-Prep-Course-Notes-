@@ -50,5 +50,6 @@ Amazon Glacier:
      - Designed for durability of 99.999999999% of objects across multiple AZs
      -Lowest cost storage class designed for long term retention of data will be retained for 7-10 years.
      -Ideal alternative to magnetic tape libraries.
-     
+     - Retrieval time within 12 hours.
+     - S3 
     
