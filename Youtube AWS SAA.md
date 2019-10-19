@@ -52,5 +52,6 @@ Amazon Glacier:
      -Ideal alternative to magnetic tape libraries.
      - Retrieval time within 12 hours.
      - S3 PUT API for direct uploads to S3 Glacier Deep Archive and S3 Lifecycle management for automatic migration of objects.
-     
+     Storage:
+     -Provisoned IOPS
     
