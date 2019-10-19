@@ -47,5 +47,8 @@ Amazon Glacier:
     S3 Glacier Deep Archive: the lowest cost storage and supports long term retention and digital preservation for data that may accesssed once or twice in a year.
     
     Key Features:
-     -
+     - Designed for durability of 99.999999999% of objects across multiple AZs
+     -Lowest cost storage class designed for long term retention of data will be retained for 7-10 years.
+     -Ideal alternative to magnetic tape libraries.
+     
     
