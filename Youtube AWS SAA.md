@@ -57,6 +57,15 @@ Amazon Glacier:
      -Provisoned IOPS
      -Throughput Optimized HDD
      -Cold HDD
-     
+    when to use specific storage models:
+    example:
+   
+   
+    EC2                        Cost effective volume 
+    Web Server                 Volume Type
+    Predcitable Workload       General Purpose SSD
+    
+    typically used for web servers 
+    
      
     
