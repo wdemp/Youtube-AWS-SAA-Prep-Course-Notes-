@@ -73,7 +73,8 @@ Amazon Glacier:
      EC2 Instance                                          Database   - Select Statements ( Read Options)                          
      Database Server                                         |        -Update, Insert and Delete(Write Options)
      Resource Intensive                                      |-Volumes   -Select- search for the data
-                                                                         - 
+                                                                         - Update,Insert of Delete-Needs to Write data
+                                                                         -
     
      High Number of Input and Output Operations 
     
