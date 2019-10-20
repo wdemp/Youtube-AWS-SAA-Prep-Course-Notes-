@@ -74,7 +74,8 @@ Amazon Glacier:
      Database Server                                         |        -Update, Insert and Delete(Write Options)
      Resource Intensive                                      |-Volumes   -Select- search for the data
                                                                          - Update,Insert of Delete-Needs to Write data
-                                                                         -
+                                                                         -I/O controller- takes a lot of strain for these                                                                                operations. 
+                                                                         -If there is too much read and write,lagging begins                                                                              to occur and the performance drops.
     
      High Number of Input and Output Operations 
     
