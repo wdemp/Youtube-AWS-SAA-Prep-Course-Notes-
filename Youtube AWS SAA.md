@@ -70,8 +70,8 @@ Amazon Glacier:
     
     More on Storage- EBS Volumes
     
-     EC2 Instance                                  
-     Database Server
-     Resource Intensive
+     EC2 Instance                                          Database   - Select Statements                           
+     Database Server                                                  -Updatem, Insert and Delete(Write Options)
+     Resource Intensive                                      |-Volumes 
      High Number of Input and Output Operations 
     
