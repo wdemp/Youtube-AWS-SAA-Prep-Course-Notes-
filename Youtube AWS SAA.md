@@ -66,7 +66,9 @@ Amazon Glacier:
     
     typically used for web servers, where you don't have much Input/Output sevices 
     
-    database server vs web server: the difference is that the web server sends you to the web pages you rwuest; while   database server sends you to files or programs that are already currently residing in the current network. The databse server works on the client server architecture
+    database server vs web server: the difference is that the web server sends you to the web pages you rwuest; while   database server sends you to files or programs that are already currently residing in the current network. The databse server works on the client server architecture.
+    
+    More on Storage- EBS Volumes
     
      
     
