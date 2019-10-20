@@ -66,12 +66,14 @@ Amazon Glacier:
     
     typically used for web servers, where you don't have much Input/Output sevices 
     
-    database server vs web server: the difference is that the web server sends you to the web pages you rwuest; while   database server sends you to files or programs that are already currently residing in the current network. The databse server works on the client server architecture. In addition databse servers the read or write option for both of them
+    database server vs web server: the difference is that the web server sends you to the web pages you rwuest; while   database server sends you to files or programs that are already currently residing in the current network. The databse server works on the client server architecture. In addition databse servers the read or write option for both of them. The database servers have to search for the file or command that is entered so the process is a litle more complex than the web server. 
     
     More on Storage- EBS Volumes
     
      EC2 Instance                                          Database   - Select Statements ( Read Options)                          
      Database Server                                         |        -Update, Insert and Delete(Write Options)
-     Resource Intensive                                      |-Volumes 
+     Resource Intensive                                      |-Volumes   -Select- search for the data
+                                                                         - 
+    
      High Number of Input and Output Operations 
     
