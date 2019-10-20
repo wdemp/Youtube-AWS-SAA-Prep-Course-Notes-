@@ -70,5 +70,6 @@ Amazon Glacier:
     
     More on Storage- EBS Volumes
     
+     EC2 Instance 
      
     
