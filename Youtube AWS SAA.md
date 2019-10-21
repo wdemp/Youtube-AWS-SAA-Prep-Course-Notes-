@@ -91,4 +91,7 @@ Amazon Glacier:
      Use Case Scenario- user uploads videos. The video gets stored on EBS volumes. They are accessed over a period of 2 months quite frequently after which they are accessed less frequently.
      Have 2 Seperate Volumes: Store the videos for 2 months on the Throughput Optimized HDD. After 2 months have a script which transfers teh videos to Cold HDD.
 
+Databases: 
+Realtional Databases:- When will you choose to use this srevice?
+Scenario: You have an Oracle workplace database that is on premise. You want to migrate the data as it is without any hassle or headaches. 
     
