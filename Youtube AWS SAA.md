@@ -87,5 +87,6 @@ Amazon Glacier:
      
      The EBS volume that would be needed in this sceneario would be a Throughput Optimized HDD- 400Mibs/
      
-     
+     Cold HDD- this is best used for infrequently accessed data- optimized for throughput
+     Use Case Scenario- user uploads videos. 
     
