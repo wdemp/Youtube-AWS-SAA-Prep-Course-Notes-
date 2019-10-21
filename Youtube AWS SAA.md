@@ -85,5 +85,7 @@ Amazon Glacier:
      Processing Server       Stream in videos
      Processing Videos       High Throughput
      
-     The EBS volume that would be needed in this sceneario would be 
+     The EBS volume that would be needed in this sceneario would be a Throughput Optimized HDD- 400Mibs/
+     
+     
     
