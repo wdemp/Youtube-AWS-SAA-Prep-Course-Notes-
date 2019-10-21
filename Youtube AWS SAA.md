@@ -96,4 +96,4 @@ Realtional Databases:- When will you choose to use this srevice?
 Scenario: You have an Oracle workplace database that is on premise. You want to migrate the data as it is without any hassle or headaches. You use the RDS Oracle. You would use the database migration services from AWS. 
    3rd party application: This has dependency that it only works with certain database engines.  For example: Wordpress only works with Postgres  
    
-   Skillset of Developers: 
+   Skillset of Developers: They don't know DynamoDB. 
