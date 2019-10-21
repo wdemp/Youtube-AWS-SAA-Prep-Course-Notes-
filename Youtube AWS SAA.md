@@ -78,4 +78,9 @@ Amazon Glacier:
                                                                          -If there is too much read and write,lagging begins                                                                              to occur and the performance drops.
     
      High Number of Input and Output Operations 
+     
+     Choosing Performance and Size - EBS Volumes
+     
+     EC2 
+     
     
