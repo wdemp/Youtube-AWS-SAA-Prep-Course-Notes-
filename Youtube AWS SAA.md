@@ -93,5 +93,5 @@ Amazon Glacier:
 
 Databases: 
 Realtional Databases:- When will you choose to use this srevice?
-Scenario: You have an Oracle workplace database that is on premise. You want to migrate the data as it is without any hassle or headaches. 
+Scenario: You have an Oracle workplace database that is on premise. You want to migrate the data as it is without any hassle or headaches. You use the RDS Oracle. You would use the database migration services from AWS. 
     
