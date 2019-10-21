@@ -75,12 +75,15 @@ Amazon Glacier:
      Resource Intensive                                      |-Volumes   -Select- search for the data
                                                                          - Update,Insert of Delete-Needs to Write data
                                                                          -I/O controller- takes a lot of strain for these                                                                                operations. 
-                                                                         -If there is too much read and write,lagging begins                                                                              to occur and the performance drops.
+                                                                         -If there is too much read and write,lagging begins                                                                              to occur and the performance drops. When this occurs the best option would be to choose a Provisioned IOPS 
     
      High Number of Input and Output Operations 
      
      Choosing Performance and Size - EBS Volumes
      
-     EC2 
+     EC2        ------------Larger in Size           
+     Processing Server       Stream in videos
+     Processing Videos       High Throughput
      
+     The EBS volume that would be needed in this sceneario would be 
     
