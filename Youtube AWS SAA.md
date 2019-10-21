@@ -89,5 +89,6 @@ Amazon Glacier:
      
      Cold HDD- this is best used for infrequently accessed data- optimized for throughput
      Use Case Scenario- user uploads videos. The video gets stored on EBS volumes. They are accessed over a period of 2 months quite frequently after which they are accessed less frequently.
-     Have 2 Seperate Volumes: Store the videos for 2 months on the Throughput Optimized HDD. After 2 months 
+     Have 2 Seperate Volumes: Store the videos for 2 months on the Throughput Optimized HDD. After 2 months have a script which transfers teh videos to Cold HDD.
+
     
