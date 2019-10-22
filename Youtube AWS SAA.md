@@ -103,6 +103,10 @@ RDS - High Availabilty: You want to enable multi AZ
  Primary    --------   Secondary(mysql)      You don't have acces to the standby. That is something only AWS has.
            synchronous                        If your primary one fails, AWS will automatically switch your endpoint to the                                                 standby.
  📱                          📱
- Datacenter  ------------  Datacenter
- xfbd
+ Datacenter  ------------  Datacenter        If the primary one fails, AWS will automatically switch your endpoint to the                                                  standby
+                             
+                                            Multi-AZ does not replicate the database across the regions.
+                                            
+                                            
+ 
  
