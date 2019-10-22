@@ -106,7 +106,7 @@ RDS - High Availabilty: You want to enable multi AZ
  Datacenter  ------------  Datacenter        If the primary one fails, AWS will automatically switch your endpoint to the                                                  standby
                              
                                             Multi-AZ does not replicate the database across the regions.
+                                            Automated Backups - copy the snapshots to another region.
                                             
-                                            
- 
+ Databases(continued) 
  
