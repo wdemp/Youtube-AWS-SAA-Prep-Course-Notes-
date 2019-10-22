@@ -110,3 +110,10 @@ RDS - High Availabilty: You want to enable multi AZ
                                             
  Databases(continued) RDS server- Read Replica's-MySQL,Postgre, and MariaDB.
  
+ 📲
+ Primary DB      asynchrnous-------   📱 Secondary DB
+You do have acces to the Secondary DB.  This is because you are given another endpoint. 
+Use this when you have performance problems on the primary DB
+
+Amazon Aurora- When would you use this?
+
