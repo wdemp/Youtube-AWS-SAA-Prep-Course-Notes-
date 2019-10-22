@@ -117,3 +117,4 @@ Use this when you have performance problems on the primary DB
 
 Amazon Aurora- When would you use this?
 
+MySQL workload: You want a faster MYSQL engine. Better performance. Fully managed. Your IT management doesn't need to have the time and resources for maintenance. High Availabilty.
