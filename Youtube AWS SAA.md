@@ -98,11 +98,11 @@ Scenario: You have an Oracle workplace database that is on premise. You want to 
    
    Skillset of Developers: They don't know DynamoDB. They aren't up to speed and you don't have the funding to train them. If however they know MySQl well, you can that.
    Structured Data, lot of table joins- choose RDS, not Dynamo DB. 
-RDS - High Availabilty: 
+RDS - High Availabilty: You want to enable multi AZ
  💿                      💿 
- Primary    --------   Secondary
-           synchronous
+ Primary    --------   Secondary(mysql)      You don't have acces to the standby. That is something only AWS has.
+           synchronous                        If your primary one fails, AWS will automatically switch your endpoint to the                                                 standby.
  📱                          📱
  Datacenter  ------------  Datacenter
- 
+ xfbd
  
