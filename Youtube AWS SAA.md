@@ -108,5 +108,5 @@ RDS - High Availabilty: You want to enable multi AZ
                                             Multi-AZ does not replicate the database across the regions.
                                             Automated Backups - copy the snapshots to another region.
                                             
- Databases(continued) 
+ Databases(continued) RDS server- Read Replica's-MySQL,Postgre, and MariaDB.
  
